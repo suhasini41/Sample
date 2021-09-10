@@ -1,0 +1,2 @@
+The return type of data provider is two dimensional Object array.
+Object[][]

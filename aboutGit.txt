@@ -1,0 +1,15 @@
+Git is used for source code management.
+The various git commands are:
+1. git init
+2. git clone
+3. git add
+4. git gui
+5. git commit
+6. git push
+
+git init - to initialize the git (makes the folder eligible ggor git)
+git clone  - relating the remote repository to the local repository
+git add - to stage the file
+git gui - opens git gui
+git commit - commits the file to the local repository from the working directory
+git push - pushes the file from the local repository to the remote repository.

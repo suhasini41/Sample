@@ -1,0 +1,5 @@
+Navigation Commands :
+1. driver.navigate().back();
+2. driver.navigate().forward();
+3. driver.navigate().to();
+4. driver.navigate().refresh();
